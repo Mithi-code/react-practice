@@ -43,7 +43,7 @@ Open with live server on vscode
 no installations
 
 ## LIVE DEMO
-[View Live Demo]()
+[View Live Demo](https://mithi-code.github.io/react-practice/)
 
 
 ## Authors
